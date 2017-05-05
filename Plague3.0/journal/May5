@@ -1,0 +1,14 @@
+May 5, 2017 | Heavy Rain | 60°/52° | Fort Greene
+
+What I've accomplished today:
+	- Made progress in planning
+	- Started coding for State class
+		- Climate
+		- Region
+		- To be more efficient in creating the ArrayList of states, I'll use the method that I used in Pokemon project
+	- New members joined
+	
+Goal for next day:
+	- start coding for specific features like transmissions
+	- come up algorithm to calculate spread rate
+	- find out how to show infection progress in a state 
