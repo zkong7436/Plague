@@ -1,0 +1,14 @@
+May 11, 2017 | Sunny | 65°/50° | Fort Greene
+
+What I've done today:
+	- Tried to organize what we are doing
+	- created PlagueS game class
+	- we are going to create an abstract class because the transmissions, symptom, and abilities screens 
+		look similar, they will have the same style.
+
+Issues came up:
+	- how do we present the map
+	
+Goal for next time:
+	- have the main screen working
+	
