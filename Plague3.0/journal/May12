@@ -1,0 +1,8 @@
+May 12, 2017 | Sunny | 62°/51° | Fort Greene
+
+What I've done today:
+	- created abstract class for all the upgrade screens
+	- everything has to be changed because of change of gui package
+	
+Goal for next time:
+	- finish the abstract class and start Transmissions
