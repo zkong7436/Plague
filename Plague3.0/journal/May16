@@ -2,3 +2,12 @@ May 16, 2017 | Sunny | 75°/63° | Fort Greene
 
 I worked on the Upgrade abstract class. 
 Next time I hope I can finish it so I can move on to transmissions
+
+May 17, 2017 | Sunny | 88°/71° | Fort Greene
+
+I worked on the disease screens
+I started the button subclass which will change the background color based on which page is opened
+
+next time I hope I can have the button finished
+
+I've also encountered a problem: I couldn't use setScreen in the Upgrades class, probably because PlagueS is in another package
