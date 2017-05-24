@@ -11,3 +11,10 @@ I started the button subclass which will change the background color based on wh
 next time I hope I can have the button finished
 
 I've also encountered a problem: I couldn't use setScreen in the Upgrades class, probably because PlagueS is in another package
+
+May 24, 2017 | Sunny | 88°/71° | Fort Greene
+
+I was working on the button, tried to make it change background color when clicked instead of hovering
+
+I couldn't made the setScreen work because PlagueS is in another folder
+set font color
