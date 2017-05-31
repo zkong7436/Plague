@@ -1,9 +1,10 @@
-May 16, 2017 | Sunny | 75�/63� | Fort Greene
+May 16, 2017 | Sunny | 75°/63° | Fort Greene
 
 I worked on the Upgrade abstract class. 
 Next time I hope I can finish it so I can move on to transmissions
 
-May 17, 2017 | Sunny | 88�/71� | Fort Greene
+___________________________________________________________________________________________________________________________________________
+May 17, 2017 | Sunny | 88°/71° | Fort Greene
 
 I worked on the disease screens
 I started the button subclass which will change the background color based on which page is opened
@@ -12,15 +13,24 @@ next time I hope I can have the button finished
 
 I've also encountered a problem: I couldn't use setScreen in the Upgrades class, probably because PlagueS is in another package
 
-May 24, 2017 | Sunny | 88�/71� | Fort Greene
+___________________________________________________________________________________________________________________________________________
+May 24, 2017 | Sunny | 88°/71° | Fort Greene
 
 I was working on the button, tried to make it change background color when clicked instead of hovering
 
 I couldn't made the setScreen work because PlagueS is in another folder
 set font color
 
-May 25, 2017 | Rain | 63�/58� | Fort Greene
+___________________________________________________________________________________________________________________________________________
+May 25, 2017 | Rain | 63°/58° | Fort Greene
 
 I moved to work on the actual content.
 
 currently working on the upgrades like tools to boost the transmission rate
+
+___________________________________________________________________________________________________________________________________________
+May 31, 2017 | Sunny | 74°/60| Fort Greene
+
+I worked on the transmission rate because Wendy needs it
+I helped Wendy to make the state button change color based on infected rate
+Joseph also struggled to make his code work
